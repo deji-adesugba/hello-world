@@ -9,3 +9,7 @@ Mending the world again.
 :smile:
 
 :smile:
+
+one thing to commit
+
+second thing to commit
